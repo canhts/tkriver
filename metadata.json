@@ -1,0 +1,6 @@
+{
+  "name": "TKRIVER",
+  "description": "Ứng dụng theo dõi mực nước lũ Sông Trà Khúc (Quảng Ngãi) theo thời gian thực với cảnh báo tự động và biểu đồ trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

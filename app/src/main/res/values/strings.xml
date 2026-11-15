@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TKRIVER</string>
+    <string name="notification_channel_name">Cảnh báo lũ Sông Trà Khúc</string>
+    <string name="notification_channel_desc">Thông báo khẩn cấp khi mực nước sông Trà Khúc dâng cao</string>
+</resources>
